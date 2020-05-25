@@ -6,10 +6,10 @@
 # Team number: 15
 # Team Members:         Sec:     ID:
 ## Ahmed Adel Ahmed       Sec: 1     ID: 6  
-## Ahmed El-nouby         Sec: 1     ID: 3
-## Donia Abd El-salam     Sec: 1     ID: 29
-## Gehad Mohamed          Sec: 1     ID: 27
-## Nancy Salah            Sec: 2     ID: 37
+## Ahmed El-nouby       Sec: 1     ID: 3
+## Donia Abd El-salam       Sec: 1     ID: 29
+## Gehad Mohamed       Sec: 1     ID: 27
+## Nancy Salah       Sec: 2     ID: 37
 # Our application results:
 ### Tables of data:
 ![](first_data.gif)
